@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hi there! Thanks for stopping by. My name is Rebecca Blake and this is where I will share with you about myself and my life and what I am up to. This serves me and you. It serves me by holding me accountable, and giving me a place to talk about my life where anyone can feel free to stop by at their leisure and check it all out. Or not. Something about the possibility of people being able to keep track of what I am up to makes me more likely to follow through. And I am interested in following through, and interested in putting structures (like this) in place to have me follow through on some really big ideas.'
-datePublished: '2016-04-24T04:53:32.117Z'
-dateModified: '2016-04-24T04:52:42.472Z'
+datePublished: '2016-04-24T05:09:23.857Z'
+dateModified: '2016-04-24T05:07:48.095Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-hi-there-thanks-for-stopping-by-my-name-is-rebecca-blake-a.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-hi-there-thanks-for-stopping-by-my-name-is-rebecca-blake-a.md
-published: true
 url: hi-there-thanks-for-stopping-by-my-name-is-rebecca-blake-a/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c3e9e22-8ed5-468e-91d0-f41e96649c5b.jpg)
+
 Hi there! Thanks for stopping by. My name is Rebecca Blake and this is where I will share with you about myself and my life and what I am up to. This serves me and you. It serves me by holding me accountable, and giving me a place to talk about my life where anyone can feel free to stop by at their leisure and check it all out. Or not. Something about the possibility of people being able to keep track of what I am up to makes me more likely to follow through. And I am interested in following through, and interested in putting structures (like this) in place to have me follow through on some really big ideas.
 
 It serves you because my intention is to inspire, educate, entertain, inform, and offer many things that are meant to transform humanity.
